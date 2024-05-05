@@ -71,7 +71,7 @@ let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 //let enlace = { contextInfo: { externalAdReply: {title: wm, body: 'support group' , sourceUrl: nna, thumbnail: await(await fetch(img)).buffer() }}}
   let pp = './Menu2.jpg'
 //let pp = gataVidMenu.getRandom()
-await m.reply(`🙈 𝙀𝙣𝙫𝙞𝙖𝙣𝙙𝙤 𝙚𝙡 𝙢𝙚𝙣𝙪 𝙙𝙚 𝙈𝙤𝙣𝙠𝙞𝘽𝙤𝙩...
+await m.reply(`🙈 _Enviando el menú de OceanBot_ ...
 
 ʚ 𝗘𝘀𝗽𝗲𝗿𝗲 𝘂𝗻 𝗺𝗼𝗺𝗲𝗻𝘁𝗼 𝗽𝗼𝗿 𝗳𝗮𝘃𝗼𝗿 ɞ
 
@@ -84,12 +84,11 @@ await m.react('🕓')
 let menu = `⌜ *${wm}* ⌟  
 
 *╭━〔  𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 ⛅  〕⬣*
-👤 𝐎𝐰𝐧𝐞𝐫 𝟏: wa.me/51907913096
-👤 𝐎𝐰𝐧𝐞𝐫 𝟐: wa.me/51977835959
-🫂 𝐂𝐫𝐞𝐚𝐝𝐨𝐫: *Daniel 🇦🇱*
-✍🏻 𝐄𝐝𝐢𝐭𝐨𝐫: *Sopiix*
+👤 𝐎𝐰𝐧𝐞𝐫 𝟏: wa.me/+529861009341
+👤 𝐎𝐰𝐧𝐞𝐫 𝟐: wa.me/+529861009341
+🫂 𝐂𝐫𝐞𝐚𝐝𝐨𝐫: *Aure*
 ⏱ 𝐔𝐩𝐭𝐢𝐦𝐞: ${uptime}
-🛎 𝐈𝐠: Instagram.com/monki_bot
+🛎 𝐈𝐠: Instagram.com/aure.jpeg
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔  𝐉𝐔𝐄𝐆𝐎𝐒 ⛅  〕⬣*
